@@ -27,7 +27,7 @@ export default function NoteForm() {
         <div>
           <label style={{ fontSize: 11, color: '#888', textTransform: 'uppercase', letterSpacing: 1, display: 'block', marginBottom: 6 }}>Заголовок</label>
           <input
-            ref={titleRef}   // useRef
+            ref={titleRef}
             value={title}
             onChange={e => setTitle(e.target.value)}
             onKeyDown={e => e.key === 'Enter' && handleSubmit()}
