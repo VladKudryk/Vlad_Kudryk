@@ -1,0 +1,19 @@
+.student-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.empty-state {
+  text-align: center;
+  padding: 48px 20px;
+  color: #b2bec3;
+  background: #fff;
+  border-radius: 12px;
+  border: 1px dashed #dfe6e9;
+}
+
+.empty-state p {
+  font-size: 15px;
+  line-height: 1.8;
+}

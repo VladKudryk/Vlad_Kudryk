@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "firstName": "Владислав",
+      "lastName": "Кудрик",
+      "group": "ІТ-22",
+      "age": 17
+    },
+    {
+      "id": 2,
+      "firstName": "Назарііііііій",
+      "lastName": "Міщук",
+      "group": "ІТ-22",
+      "age": 17
+    },
+    {
+      "id": 3,
+      "firstName": "Каріна",
+      "lastName": "Пікуль",
+      "group": "ІТ-22",
+      "age": 17
+    }
+  ]
+}
